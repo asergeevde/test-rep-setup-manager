@@ -1,0 +1,32 @@
+{
+  "userId": 67890,
+  "username": "jane_smith",
+  "email": "jane.smith@example.org",
+  "isVerified": false,
+  "registrationDate": "2024-12-15T09:30:00Z",
+  "profile": {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "birthDate": "1990-04-22",
+    "gender": "female"
+  },
+  "settings": {
+    "language": "en",
+    "timezone": "UTC+1",
+    "newsletter": false
+  },
+  "friends": ["user123", "user456", "user789"],
+  "recentActivities": [
+    {
+      "activityId": 1,
+      "type": "post",
+      "timestamp": "2025-01-26T12:00:00Z"
+    },
+    {
+      "activityId": 2,
+      "type": "comment",
+      "timestamp": "2025-01-26T14:15:00Z"
+    }
+  ],
+  "accountBalance": 354.75
+}
